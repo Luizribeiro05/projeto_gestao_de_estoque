@@ -2,12 +2,12 @@
 
 Gestor de Estoque em Java com Spring Boot
 
-<h2>Visão Geral
+<h2>Visão Geral</h2>
 
 O projeto "Gestor de Estoque" é uma aplicação web desenvolvida em Java com Spring Boot. O objetivo é gerenciar o estoque de produtos de uma empresa, permitindo adição, remoção, atualização e consulta de produtos. A aplicação utiliza PostgreSQL para armazenamento de dados e Postman para testes e validação das APIs RESTful.
 
 <h1>Funcionalidades</h1>
-<h2>Cadastro de Produtos:</h>
+<h2>Cadastro de Produtos:</h2>
 
 Adicionar novos produtos com nome, descrição, quantidade e preço.
 
